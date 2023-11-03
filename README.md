@@ -1,3 +1,3 @@
-# 2023-website
+# website-1
 
-My old personal website. Built with TailwindCSS and ReactJS, hosted by Vercel.
+A personal portfolio website design.
